@@ -11,4 +11,4 @@
 2. Giải nén `DoAn_KTDL.rar` và chạy ứng dụng.
 
 Các bạn muốn xem chi tiết thì có thể click vào phần main ở trên nguyenngochailuan add upload file 
-Xong các bạn click vào phần main để có thể xem trước đoạn code phân tích nhé!!!🚀🚀🚀
+Xong các bạn click vào phần master để có thể xem trước đoạn code phân tích nhé!!!🚀🚀🚀
